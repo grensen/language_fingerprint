@@ -3,7 +3,7 @@
 ##
 
 <p align="center">
-    <img src="https://github.com/grensen/language_fingerprint/blob/main/figures/lf_jm.png" >
+    <img src="https://github.com/grensen/language_fingerprint/blob/main/figures/language_fingerprint_intro.png" >
 </p>
 
 Language Fingerprint: A very interesting idea is to visualize the relationships between characters in a language. The demo is built from scratch in WPF C# without XAML. 
@@ -22,7 +22,7 @@ The idea of the visualization based on [this](https://x.com/matthen2/status/1775
 ##
 
 <p align="center">
-    <img src="https://github.com/grensen/language_fingerprint/blob/main/figures/n_gram_,model.png" >
+    <img src="https://github.com/grensen/language_fingerprint/blob/main/figures/n_gram_model.png" >
 </p>
 
 We use a so-called bigram model here, but Matt also uses a 4-gram model, which is already something like a baby LLM. Crazy stuff and good fun.
